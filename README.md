@@ -1,4 +1,4 @@
-Trocador de cor de fundo
+Trocador de cor de fundo<br/>
 Aplicação web simples que muda a cor de fundo aleatoriamente.<br/>
 É a minha primeira vez utilizando conceitos como 
 *document.querySelector()*, *addEventListener()*,  *document.body.style.backgroundColor*. <br/>
